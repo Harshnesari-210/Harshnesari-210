@@ -20,7 +20,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/harshnesari" target="_blank">
+  <a href="https://twitter.com/HarshNesari" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/harshnesari" target="_blank">
