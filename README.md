@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on: [**MEDxPERT**](https://github.com/Harshnesari-210/MedXpert) – an intelligent doctor recommendation platform.  
 - 🧠 Currently learning: **Node.js**, **Express.js**, **React.js**, and **System Design** basics.  
-- 🤝 Looking to collaborate on: **Rubik’s Cube Solver** (Algorithm & Visualization)  
+- 🤝 Looking to collaborate on a : **B2B SaaS Project** (Pop Up generation on clients website)  
 - 🌐 Portfolio: [harshnesari.vercel.app](https://harshnesari.vercel.app/)  
 - 📫 Reach me at: **harshnesari@gmail.com**  
 
