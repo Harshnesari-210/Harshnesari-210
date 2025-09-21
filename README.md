@@ -9,7 +9,8 @@
 
 ### 🔥 About Me
 
-- 🔭 Currently working on: [**Weakstorejs**](https://github.com/Harshnesari-210/weakstore) – An open source JavaScript package to ease the private objects.  
+- 🔭 Currently working on: [**Weakstorejs**](https://github.com/Harshnesari-210/weakstore) – An open source JavaScript package to ease the private objects.
+- 🚀 Read by blogs: [**TechBlog-Harsh**](https://weakstore.hashnode.dev/introducing-weakstorejs-simplifying-private-data-storage-in-javascript)
 - 🧠 Currently learning: **Node.js**, **Express.js**, **React.js**, and **System Design** basics.  
 - 🤝 Looking to collaborate on a : **B2B SaaS Project** (Pop Up generation on clients website)  
 - 🌐 Portfolio: [harshnesari.vercel.app](https://harshnesari.vercel.app/)  
