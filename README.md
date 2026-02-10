@@ -5,17 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshnesari-210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### 🔥 About Me
-
-- 🔭 Currently working on: [**Weakstorejs**](https://github.com/Harshnesari-210/weakstore) – An open source JavaScript package to ease the private objects.
-- 🚀 Read by blogs: [**TechBlog-Harsh**](https://weakstore.hashnode.dev/introducing-weakstorejs-simplifying-private-data-storage-in-javascript)
-- 🧠 Currently learning: **Node.js**, **Express.js**, **React.js**, and **System Design** basics.  
-- 🤝 Looking to collaborate on a : **B2B SaaS Project** (Pop Up generation on clients website)  
-- 🌐 Portfolio: [harshnesari.vercel.app](https://harshnesari.vercel.app/)  
-- 📫 Reach me at: **harshnesari@gmail.com**  
-
+--- 
 ---
 
 ### 🌐 Connect With Me
