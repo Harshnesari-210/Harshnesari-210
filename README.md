@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Nesari</h1>
-<h3 align="center"> programmer | JavaScript 🚀 </h3>
+<h3 align="center"> Programmer | JavaScript 🚀 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshnesari-210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
